@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-- 🎓 Currently pursuing **Computer Engineering**
+- 🎓 Currently pursuing **Information Technology**
 - 💻 Passionate about **Java, Spring Boot, REST APIs, MySQL**
 - 🧠 Strong interest in **DSA + Problem Solving**
 - 🚀 Building real-world projects to become a **Job-Ready Java Developer**
