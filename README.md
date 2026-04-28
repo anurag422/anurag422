@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Prajapat</h1>
-<h3 align="center">🎓 Information Technology Student | 🚀 Java Backend Developer | 💻 Full Stack Learner</h3>
+<h3 align="center">🎓 Information Technology Student | 🚀 Java Backend Developer | 💻 Full Stack Developer</h3>
 
 ---
 
@@ -13,24 +13,45 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-### 🔹 PhoneLink - Contact Management Application 📱  
+---
 
-🌐 **Live Demo:**  
-👉 **[🔴 Click Here to View Live Project](https://phonelink.onrender.com)**  
+### 🔹 💳 Fraud Detection System (Full-Stack)
+
+🚀 A production-inspired **Fraud Detection System** built using Spring Boot and React.
+
+📌 Tech Stack: **Java, Spring Boot, Spring Security, React, MySQL**
+
+### ✨ Key Features
+
+- 🔐 JWT Authentication & Secure APIs  
+- 🔒 AES Encryption for Card Data  
+- 💳 Card Management System  
+- 💰 Payment Processing with Fraud Detection  
+- 🚨 Smart Fraud Detection (Risk Scoring)  
+- 📊 Dashboard with Fraud Highlight (Blocked / Suspicious)  
+- ⚡ Optimized Queries & Scalable Backend  
+
+👉 🔗 GitHub Repo: *(https://github.com/anurag422/Fraud-Detection-System)*
+
+---
+
+### 🔹 📱 PhoneLink - Contact Management Application  
 
 📌 Built with **Java, Spring Boot, Spring Security, Thymeleaf, Tailwind CSS, MySQL**
 
 ### ✨ Key Features
 
 - ✅ Secure User Authentication (Login / Register)
-- ✅ OAuth2 Login (Google & GitHub)
-- ✅ Contact CRUD Operations
-- ✅ Profile Management
-- ✅ Responsive UI with Tailwind CSS
-- ✅ Clean MVC Architecture
-- ✅ Cloud Deployment (Production Ready)
+- 🔐 OAuth2 Login (Google & GitHub)
+- 📇 Contact CRUD Operations
+- 👤 Profile Management
+- 🎨 Responsive UI (Tailwind CSS)
+- 🏗 Clean MVC Architecture
+- ☁️ Cloud Deployment (Production Ready)
+
+👉 🔗 GitHub Repo: *(https://github.com/anurag422/PhoneLink)*
 
 ---
 
@@ -43,7 +64,7 @@ Java | JavaScript | SQL | HTML | CSS
 Spring Boot | Spring Security | REST APIs | Servlet | JSP  
 
 ### 🎨 Frontend
-Thymeleaf | Tailwind CSS | React (Learning)
+React | Thymeleaf | Tailwind CSS  
 
 ### 🗄 Database
 MySQL  
@@ -59,8 +80,8 @@ OOP | DBMS | Operating Systems | Computer Networks
 ## 🏆 Achievements
 
 - 🔥 Solved **300+ DSA problems**
-- 💡 Active learner in **Java & DSA**
-- 🧠 Strong foundation in problem solving
+- 💡 Strong problem-solving skills
+- 🧠 Consistent learner in Java & Backend Development
 
 ---
 
@@ -76,10 +97,10 @@ OOP | DBMS | Operating Systems | Computer Networks
 
 ## 📫 Connect With Me
 
-💼 LinkedIn:  
+💼 LinkedIn  
 👉 https://www.linkedin.com/in/anurag-prajapat-b84b61311/
 
-📧 Email:  
+📧 Email  
 👉 prajapatanurag972@gmail.com  
 
 ---
