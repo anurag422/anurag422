@@ -37,7 +37,7 @@
 
 ---
 
-### 🔹 📱 PhoneLink - Contact Management Application  
+### 🔹 📱 PhoneLink - Contact Management Application  (Full-Stack)
 
 📌 Built with **Java, Spring Boot, Spring Security, Thymeleaf, Tailwind CSS, MySQL**
 
